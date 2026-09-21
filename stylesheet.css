@@ -1,0 +1,16 @@
+#images {
+	display: flex;
+	gap: 15px;
+}
+
+h1, p {
+	color: lime-green;
+}
+
+h1 {
+	font-family: "Rubik Broken Fax";
+}
+
+p {
+	font-family: "Rubik";
+}
