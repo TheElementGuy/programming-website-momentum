@@ -1,17 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
-#images {
-	display: flex;
-	flex-wrap: wrap;
-	gap: 15px;
+#image-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 0 10px;
 }
 
-#image-container {
-	position: relative;
-
-	display: flex;
-	flex-wrap: wrap;
-	gap: 15px;
+#frc, #robot {
+    height: 200px;
 }
 
 #logo-div {
@@ -35,16 +32,6 @@ body {
 
 h1, p, li {
 	color: black;
-}
-
-#frc {
-	position: absolute;
-	left: 10px;
-}
-
-#robot {
-	position: absolute;
-	right:10px;
 }
 
 body {
