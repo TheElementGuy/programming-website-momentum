@@ -23,6 +23,8 @@
 
 	width: 50px;
 	height: auto;
+
+	transform: rotate(-20deg);
 }
 
 h1, p, li {
