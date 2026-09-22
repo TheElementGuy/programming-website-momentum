@@ -12,6 +12,10 @@
 	height: auto;
 }
 
+#logo-div {
+	position: relative;
+}
+
 #penguin {
 	position: absolute;
 	top: 0;
