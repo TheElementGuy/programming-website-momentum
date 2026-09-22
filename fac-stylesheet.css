@@ -11,6 +11,7 @@
 #frc, #robot {
 	position: static;
     height: 200px;
+	width: auto;
 	max-width: 95%;
 }
 
