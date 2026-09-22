@@ -8,6 +8,7 @@
 
 img {
 	border: 4px solid white;
+	max-width: 100%;
 }
 
 h1, p, li {
