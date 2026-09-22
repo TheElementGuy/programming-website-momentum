@@ -29,6 +29,11 @@ h1, p, li {
 	color: black;
 }
 
+#robot {
+	height: 300px;
+	width: auto;
+}
+
 body {
 	background-color: white;
 }
