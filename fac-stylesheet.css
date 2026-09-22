@@ -10,8 +10,9 @@
 
 #frc, #robot {
 	position: static;
-    height: 200px;
+    max-height: 200px;
 	width: auto;
+	height: auto;
 	max-width: 95%;
 }
 
