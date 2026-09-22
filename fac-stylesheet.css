@@ -6,8 +6,11 @@
 	gap: 15px;
 }
 
+#image-container {
+	position: relative;
+}
+
 .formatted {
-	border: 4px solid #9900ff;
 	max-width: 100%;
 	height: auto;
 }
@@ -35,17 +38,14 @@ h1, p, li {
 	color: black;
 }
 
-#robot {
-	height: 200px;
-	width: auto;
+#frc {
+	position: absolute;
+	left: 10px;
 }
 
-#people {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-
-	margin-top: 10px;
+#robot {
+	position: absolute;
+	right:10px;
 }
 
 body {
