@@ -8,6 +8,10 @@
 
 #image-container {
 	position: relative;
+
+	display: flex;
+	flex-wrap: wrap;
+	gap: 15px;
 }
 
 #logo-div {
