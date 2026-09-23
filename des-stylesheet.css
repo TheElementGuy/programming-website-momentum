@@ -16,9 +16,10 @@ ul {
 }
 
 h1 {
-	font-family: "Playfair Display"
+	font-family: "Playfair Display";
+	text-align: center;
 }
 
 p, li {
-	font-family: "Nunito"
+	font-family: "Nunito";
 }
