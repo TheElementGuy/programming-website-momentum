@@ -12,7 +12,7 @@ img {
 	height: auto;
 }
 
-h1, p, li {
+h1, p, li, a {
 	color: lime;
 	text-decoration: none;
 }
