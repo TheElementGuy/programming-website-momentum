@@ -13,6 +13,9 @@ ul {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
+
+	width: 95%;
+	height: auto;
 }
 
 h1 {
