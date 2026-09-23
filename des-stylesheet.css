@@ -5,6 +5,10 @@ h1, p, a {
 	color: black;
 }
 
+ul {
+	list-style-type: "- ";
+}
+
 .fancy {
 	display: block;
 	margin-left: auto;
