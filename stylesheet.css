@@ -1,5 +1,9 @@
-h1, p, li, a {
-	font-family: "Segoe UI", "Helvetica Neue", "Trebuchet MS", sans-serif;
+h1, p, li, a, h2 {
+	font-family: "Segoe UI", "Helvetica Neue", "Trebuchet MS", sans-serif !important;
+}
+
+h2 {
+	color: white;
 }
 
 a:visited {
