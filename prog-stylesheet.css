@@ -14,7 +14,7 @@ img {
 
 h1, p, li {
 	color: lime;
-	underline: none;
+	text-decoration: none;
 }
 
 body {
