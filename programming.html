@@ -7,9 +7,20 @@
 		<title>Momentum Robotics Programming Subteam Intro</title>
 		<base href="https://theelementguy.github.io/programming-website-momentum/">
 		<link rel="stylesheet" href="prog-stylesheet.css">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+		<script>
+			$(document).ready(function() {
+				$("#link").mouseenter(function() {
+					$("#hover-message").slideDown();
+				});
+				$("#link").mouseleave(function() {
+					$("#hover-message").slideUp();
+				});
+			});
+		</script>
 	</head>
 	<body>
-		<a href="https://theelementguy.github.io/programming-website-momentum/"><h1>Momentum Robotics: Programming</h1></a>
+		<a href="https://theelementguy.github.io/programming-website-momentum/" id="link"><h1>Momentum Robotics: Programming</h1></a>
 		<p id="hover-message">Click to go back to home page</p>
 		<p>Do you code? Do you want to? If so, this subteam is for you.</p>
 		<p>We are the Programming Subteam. We are the brains of the robot. We make it work and do everything we want it to. We do whatever it takes to get a robot working at a competition!</p>
