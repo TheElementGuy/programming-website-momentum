@@ -18,6 +18,10 @@ h1, p, li, a {
 	text-decoration: none;
 }
 
+#hover-message {
+	display: none;
+}
+
 body {
 	background-color: black;
 }
