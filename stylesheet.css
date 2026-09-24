@@ -2,16 +2,16 @@
 @import url('https://fonts.cdnfonts.com/css/stormfaze');
 
 h1, p, li, a, h2 {
-	font-family: "Stormfaze", "Libre Franklin", "Helvetica Neue", "Trebuchet MS", sans-serif !important;
+	font-family: "Stormfaze", "Libre Franklin", "Helvetica Neue", "Trebuchet MS", sans-serif;
 }
 
 h2 {
-	color: white !important;
-	text-decoration: none !important;
+	color: white;
+	text-decoration: none;
 }
 
 a {
-	text-decoration: none !important;
+	text-decoration: none;
 }
 
 img {
